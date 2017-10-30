@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE LMpress SYSTEM "LMpress.dtd">
-<!ELEMENT Story (Category+, Title+, Source, Author, Year?, Month?, Day?, Link+)>
 
-<!ELEMENT Category (Beer|Taproom|Events|Brewery)>
+<!ELEMENT Story (Category+, Title, Source, Author, Year?, Month?, Day?, Link)>
 
+<!ELEMENT Category (Beer|Taproom|Events|Brewery|Neighbors)>
 <!ELEMENT Title (#PCDATA)>
 <!ELEMENT Source (#PCDATA)>
 <!ELEMENT Author (#PCDATA)>

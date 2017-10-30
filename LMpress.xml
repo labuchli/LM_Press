@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-
+<!DOCTYPE LMpress SYSTEM "LMpress.dtd">
 <LMpress>
   <Story>
     <Category>Beer</Category>
@@ -11,7 +11,6 @@
     <Day>31</Day>
     <Link>http://www.twincities.com/2017/07/31/lake-monster-brewings-gose-isnt-traditional-but-it-sure-is-tasty/</Link>
   </Story>
-
   <Story>
     <Category>Beer</Category>
     <Title>Lake Monster's Golden Oat Belgian is a smooth, juicy treat</Title>
@@ -22,7 +21,6 @@
     <Day>22</Day>
     <Link>http://www.twincities.com/2017/02/22/lake-monsters-golden-oat-belgian-is-a-smooth-juicy-treat/</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>Open soon: Lake Monster Brewing's New St. Paul taproom</Title>
@@ -33,7 +31,6 @@
     <Day>18</Day>
     <Link>https://www.bizjournals.com/twincities/news/2015/11/18/lake-monster-taproom-opens-soon.html</Link>
   </Story>
-
   <Story>
     <Category>Brewery</Category>
     <Title>Swimmer's beware: Lake Monster craft beers debut next week</Title>
@@ -44,7 +41,6 @@
     <Day>06</Day>
     <Link>https://www.bizjournals.com/twincities/news/2013/09/05/the-newest-local-craft-beer-beware.html</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>Lake Monster Brewing plans St. Paul microbrewery and taproom</Title>
@@ -55,7 +51,6 @@
     <Day>07</Day>
     <Link>https://www.bizjournals.com/twincities/blog/real_estate/2014/08/lake-monster-brewing-st-paul-microbrewery-taproom.html</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Anglers are tying flies (and tying one on) at Twin Cities taprooms</Title>
@@ -66,7 +61,6 @@
     <Day>30</Day>
     <Link>https://growlermag.com/anglers-are-tying-flies-and-tying-one-on-at-twin-cities-taprooms/</Link>
   </Story>
-
   <Story>
     <Category>Beer</Category>
     <Title>Lake Monster introduces cans, two new year-round beers</Title>
@@ -77,7 +71,6 @@
     <Day>04</Day>
     <Link>http://www.citypages.com/restaurants/lake-monster-introduces-cans-two-new-year-round-beers/395736171</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>Lake Monster Taproom takes over former industrial space in Midway</Title>
@@ -88,7 +81,6 @@
     <Day>21</Day>
     <Link>http://www.citypages.com/restaurants/lake-monster-taproom-takes-over-former-industrial-space-in-midway-7906273</Link>
   </Story>
-
   <Story>
     <Category>Brewery</Category>
     <Title>Tap Talk: Lake Monster Brewing in St. Paul</Title>
@@ -99,7 +91,6 @@
     <Day>08</Day>
     <Link>http://minnesota.cbslocal.com/2015/12/08/tap-talk-lake-monster-brewing-in-st-paul/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Books and beer pop-up bookstore</Title>
@@ -110,7 +101,6 @@
     <Day>11</Day>
     <Link>http://www.secretsofthecity.com/events/view/books-and-beer-pop-up-bookstore</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>17 dog-friendly Twin Cities patios</Title>
@@ -121,7 +111,6 @@
     <Day>02</Day>
     <Link>http://www.twincities.com/2017/08/02/dog-friendly-patios-minneapolis-st-paul/</Link>
   </Story>
-
   <Story>
     <Category>Beer</Category>
     <Title>Hit the road with two beer tours of the Twin Cities</Title>
@@ -132,7 +121,6 @@
     <Day>31</Day>
     <Link>http://www.startribune.com/hit-the-road-with-two-beer-tours-of-the-twin-cities/425513433/#1</Link>
   </Story>
-
   <Story>
     <Category>Beer</Category>
     <Title>10K Brewing and Lake Monster now open, St. Dinette’s brunch drinks, Dangerous Man bottle release</Title>
@@ -143,7 +131,6 @@
     <Day>16</Day>
     <Link>http://heavytable.com/64409-2/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Beer and fly-tying mix well at angler gatherings in the metro</Title>
@@ -154,7 +141,6 @@
     <Day>06</Day>
     <Link>http://www.startribune.com/beer-and-fly-tying-intersect-at-angler-gatherings-in-the-metro/412578343/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Babies and Brews: Do good diaper service + Lake Monster Brewering Valentine's Day Bash</Title>
@@ -165,7 +151,6 @@
     <Day>12</Day>
     <Link>http://www.secretsofthecity.com/events/view/babies-and-brews-do-good-diaper-service-lake-monster-brewing-valentines-day-bash</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>Voxel Virtual Reality Parlour in St. Paul offers an eye-opening night out</Title>
@@ -176,7 +161,6 @@
     <Day>28</Day>
     <Link>http://www.startribune.com/voxel-virtual-reality-parlour-in-st-paul-offers-an-eye-opening-night-out/411929066/</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>Gremlin Theatre has a new haunt in St. Paul (and it’s near a brewery)</Title>
@@ -187,7 +171,6 @@
     <Day>05</Day>
     <Link>http://www.twincities.com/2017/07/05/gremlin-theatre-has-a-new-haunt-in-st-paul-and-its-near-a-brewery/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Lake Monster Comedy Showcase</Title>
@@ -198,7 +181,6 @@
     <Day>02</Day>
     <Link>http://www.secretsofthecity.com/events/view/lake-monster-comedy-showcase</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>St. Paul Mayor Chris Coleman won’t run again, and won’t talk about future plans</Title>
@@ -209,7 +191,6 @@
     <Day>01</Day>
     <Link>http://www.twincities.com/2016/12/01/st-paul-mayor-chris-coleman-not-run-for-re-election-mum-on-future-plans/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Where to get some holiday shopping started</Title>
@@ -220,7 +201,6 @@
     <Day>04</Day>
     <Link>http://www.twincities.com/2016/11/04/where-to-get-some-holiday-shopping-started/</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>Gremlin Theatre building stage in arty St. Paul warehouse</Title>
@@ -231,7 +211,6 @@
     <Day>27</Day>
     <Link>http://www.twincities.com/2017/01/27/st-paul-gremlin-theatre-stage-arty-warehouse-university-vandalia-ave/</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>‘Original Fly Shop’ moving to St. Paul after nearly 40 years in Lake Elmo</Title>
@@ -242,7 +221,6 @@
     <Day>11</Day>
     <Link>http://www.twincities.com/2016/05/11/original-fly-shop-moving-to-st-paul-after-nearly-40-years-in-lake-elmo/</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>Has the Twin Cities reached peak craft beer?</Title>
@@ -253,7 +231,6 @@
     <Day>14</Day>
     <Link>https://www.minnpost.com/line/2015/08/has-twin-cities-reached-peak-craft-beer</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>Summer Winter Summer Blowout set for August</Title>
@@ -264,7 +241,6 @@
     <Day>21</Day>
     <Link>http://www.parkbugle.org/summer-winter-summer-blowout-set-for-august/</Link>
   </Story>
-
   <Story>
     <Category>Neighbors</Category>
     <Title>Old King Koil factory is still a dreamland</Title>
@@ -275,7 +251,6 @@
     <Day>25</Day>
     <Link>https://www.parkbugle.org/old-king-koil-factory-is-still-a-dreamland/</Link>
   </Story>
-
   <Story>
     <Category>Beer</Category>
     <Title>Local Suds: 5 Minnesota beers to try in October</Title>
@@ -286,7 +261,6 @@
     <Day>10</Day>
     <Link>http://www.citypages.com/restaurants/local-suds-5-minnesota-beers-to-try-in-october/396515231</Link>
   </Story>
-
   <Story>
     <Category>Taproom</Category>
     <Title>The Twin Cities Are Foaming Over The Craft Beer Boom</Title>
@@ -297,7 +271,6 @@
     <Day>28</Day>
     <Link>http://minnesotaconnected.com/lifestyle/the-twin-cities-are-foaming-over-the-craft-beer-boom_933346/</Link>
   </Story>
-
   <Story>
     <Category>Events</Category>
     <Title>Twin Cities fitness buffs following exercise with a beer chaser</Title>
