@@ -9,7 +9,7 @@
     <Year>2017</Year>
     <Month>07</Month>
     <Day>31</Day>
-    <Link>www.twincities.com/2017/07/31/lake-monster-brewings-gose-isnt-traditional-but-it-sure-is-tasty/</Link>
+    <Link>http://www.twincities.com/2017/07/31/lake-monster-brewings-gose-isnt-traditional-but-it-sure-is-tasty/</Link>
   </Story>
 
   <Story>
@@ -126,10 +126,186 @@
     <Category>Beer</Category>
     <Title>Hit the road with two beer tours of the Twin Cities</Title>
     <Source>Star Tribune</Source>
-    <Author>Nancy Ngo</Author>
+    <Author>Michael Agnew</Author>
     <Year>2017</Year>
-    <Month>08</Month>
+    <Month>05</Month>
+    <Day>31</Day>
+    <Link>http://www.startribune.com/hit-the-road-with-two-beer-tours-of-the-twin-cities/425513433/#1</Link>
+  </Story>
+
+  <Story>
+    <Category>Beer</Category>
+    <Title>10K Brewing and Lake Monster now open, St. Dinette’s brunch drinks, Dangerous Man bottle release</Title>
+    <Source>Heavy Table</Source>
+    <Author>Paige Latham Didora</Author>
+    <Year>2015</Year>
+    <Month>12</Month>
+    <Day>16</Day>
+    <Link>http://heavytable.com/64409-2/</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>Beer and fly-tying mix well at angler gatherings in the metro</Title>
+    <Source>Star Tribune</Source>
+    <Author>Tony Kennedy</Author>
+    <Year>2017</Year>
+    <Month>02</Month>
+    <Day>06</Day>
+    <Link>http://www.startribune.com/beer-and-fly-tying-intersect-at-angler-gatherings-in-the-metro/412578343/</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>Babies and Brews: Do good diaper service + Lake Monster Brewering Valentine's Day Bash</Title>
+    <Source>Secrets of the City</Source>
+    <Author>Pepino Rodrigo Serrano Gonzales</Author>
+    <Year>2016</Year>
+    <Month>02</Month>
+    <Day>12</Day>
+    <Link>http://www.secretsofthecity.com/events/view/babies-and-brews-do-good-diaper-service-lake-monster-brewing-valentines-day-bash</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>Voxel Virtual Reality Parlour in St. Paul offers an eye-opening night out</Title>
+    <Source>Star Tribune</Source>
+    <Author>Kavita Kumar</Author>
+    <Year>2017</Year>
+    <Month>01</Month>
+    <Day>28</Day>
+    <Link>http://www.startribune.com/voxel-virtual-reality-parlour-in-st-paul-offers-an-eye-opening-night-out/411929066/</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>Gremlin Theatre has a new haunt in St. Paul (and it’s near a brewery)</Title>
+    <Source>Pioneer Press</Source>
+    <Author>Chris Hewitt</Author>
+    <Year>2017</Year>
+    <Month>07</Month>
+    <Day>05</Day>
+    <Link>http://www.twincities.com/2017/07/05/gremlin-theatre-has-a-new-haunt-in-st-paul-and-its-near-a-brewery/</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>Lake Monster Comedy Showcase</Title>
+    <Source>Secrets of the City</Source>
+    <Author>Peter Armenian</Author>
+    <Year>2016</Year>
+    <Month>03</Month>
     <Day>02</Day>
-    <Link>http://www.twincities.com/2017/08/02/dog-friendly-patios-minneapolis-st-paul/</Link>
+    <Link>http://www.secretsofthecity.com/events/view/lake-monster-comedy-showcase</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>St. Paul Mayor Chris Coleman won’t run again, and won’t talk about future plans</Title>
+    <Source>Pioneer Press</Source>
+    <Author>Frederick Melo</Author>
+    <Year>2016</Year>
+    <Month>12</Month>
+    <Day>01</Day>
+    <Link>http://www.twincities.com/2016/12/01/st-paul-mayor-chris-coleman-not-run-for-re-election-mum-on-future-plans/</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>Where to get some holiday shopping started</Title>
+    <Source>Pioneer Press</Source>
+    <Author>Nancy Ngo</Author>
+    <Year>2016</Year>
+    <Month>11</Month>
+    <Day>04</Day>
+    <Link>http://www.twincities.com/2016/11/04/where-to-get-some-holiday-shopping-started/</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>Gremlin Theatre building stage in arty St. Paul warehouse</Title>
+    <Source>Pioneer Press</Source>
+    <Author>Chris Hewitt</Author>
+    <Year>2017</Year>
+    <Month>01</Month>
+    <Day>27</Day>
+    <Link>http://www.twincities.com/2017/01/27/st-paul-gremlin-theatre-stage-arty-warehouse-university-vandalia-ave/</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>‘Original Fly Shop’ moving to St. Paul after nearly 40 years in Lake Elmo</Title>
+    <Source>Pioneer Press</Source>
+    <Author>Dave Orrick</Author>
+    <Year>2016</Year>
+    <Month>05</Month>
+    <Day>11</Day>
+    <Link>http://www.twincities.com/2016/05/11/original-fly-shop-moving-to-st-paul-after-nearly-40-years-in-lake-elmo/</Link>
+  </Story>
+
+  <Story>
+    <Category>Taproom</Category>
+    <Title>Has the Twin Cities reached peak craft beer?</Title>
+    <Source>MinnPost</Source>
+    <Author>Brian Martucci</Author>
+    <Year>2015</Year>
+    <Month>08</Month>
+    <Day>14</Day>
+    <Link>https://www.minnpost.com/line/2015/08/has-twin-cities-reached-peak-craft-beer</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>Summer Winter Summer Blowout set for August</Title>
+    <Source>Park Bugle</Source>
+    <Author>Kristal Leebrick</Author>
+    <Year>2016</Year>
+    <Month>06</Month>
+    <Day>21</Day>
+    <Link>http://www.parkbugle.org/summer-winter-summer-blowout-set-for-august/</Link>
+  </Story>
+
+  <Story>
+    <Category>Neighbors</Category>
+    <Title>Old King Koil factory is still a dreamland</Title>
+    <Source>Park Bugle</Source>
+    <Author>Judy Woodward</Author>
+    <Year>2016</Year>
+    <Month>01</Month>
+    <Day>25</Day>
+    <Link>https://www.parkbugle.org/old-king-koil-factory-is-still-a-dreamland/</Link>
+  </Story>
+
+  <Story>
+    <Category>Beer</Category>
+    <Title>Local Suds: 5 Minnesota beers to try in October</Title>
+    <Source>City Pages</Source>
+    <Author>Jerard Fagerberg</Author>
+    <Year>2016</Year>
+    <Month>10</Month>
+    <Day>10</Day>
+    <Link>http://www.citypages.com/restaurants/local-suds-5-minnesota-beers-to-try-in-october/396515231</Link>
+  </Story>
+
+  <Story>
+    <Category>Taproom</Category>
+    <Title>The Twin Cities Are Foaming Over The Craft Beer Boom</Title>
+    <Source>Minnesota Connection</Source>
+    <Author>Forrest McCullough</Author>
+    <Year>2016</Year>
+    <Month>02</Month>
+    <Day>28</Day>
+    <Link>http://minnesotaconnected.com/lifestyle/the-twin-cities-are-foaming-over-the-craft-beer-boom_933346/</Link>
+  </Story>
+
+  <Story>
+    <Category>Events</Category>
+    <Title>Twin Cities fitness buffs following exercise with a beer chaser</Title>
+    <Source>Star Tribune</Source>
+    <Author>Sharyn Jackson</Author>
+    <Year>2016</Year>
+    <Month>03</Month>
+    <Day>03</Day>
+    <Link>http://www.startribune.com/some-twin-cities-area-fitness-buffs-are-following-exercise-with-a-beer-chaser/370804151/</Link>
   </Story>
 </LMPress>
